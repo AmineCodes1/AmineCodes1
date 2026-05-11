@@ -91,9 +91,7 @@ Engineering student passionate about AI, data, and building things that actually
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AmineCodes1&theme=dracula&column=7&margin-w=15&margin-h=15)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmineCodes1&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineCodes1&layout=compact&theme=dracula&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmineCodes1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
