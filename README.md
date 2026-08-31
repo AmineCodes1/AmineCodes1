@@ -18,7 +18,7 @@ Engineering student passionate about AI, data, and building things that actually
 
 <div align="left">
 
-- 🔭 I'm currently working on [**Stockmind-AI**](https://github.com/AmineCodes1/StockMind-AI)
+- 🔭 I'm currently working on 
 
 </div>
 
