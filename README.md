@@ -18,7 +18,7 @@ Engineering student passionate about AI, data, and building things that actually
 
 <div align="left">
 
-- 🔭 I'm currently working on 
+- 🔭 I'm currently working on **Advanced RAG**
 
 </div>
 
