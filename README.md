@@ -26,7 +26,7 @@ Engineering student passionate about AI, data, and building things that actually
 
 <div align="left">
 
-- 🌱 I'm currently learning **Apache Spark, Apache Kafka, React**
+- 🌱 I'm currently learning **Microsoft Azure**
 
 </div>
 
