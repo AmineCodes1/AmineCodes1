@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Mohamed Amine Abdelmoumen
+# Hi , I'm Mohamed Amine Abdelmoumen
 
 ### A passionate AI and Data Engineering student from Morocco
 
@@ -103,7 +103,7 @@ Engineering student passionate about AI, data, and building things that actually
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Thank you for visiting my profile! 😊**
+**Thank you for visiting my profile!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmineCodes1&color=brightgreen&style=flat-square&label=Profile+Views)
 
