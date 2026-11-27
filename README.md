@@ -35,7 +35,7 @@ Engineering student passionate about AI, data, and building things that actually
 <div align="left">
 
 - 📫 How to reach me **mohamedamine.abdelmoumen1@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GCY2DNI2Dk6oEraJEyzo7ff-WrqyDa_E/view?usp=sharing](https://drive.google.com/file/d/1GCY2DNI2Dk6oEraJEyzo7ff-WrqyDa_E/view?usp=sharing)
+
 
 </div>
 
