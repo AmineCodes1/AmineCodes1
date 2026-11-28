@@ -108,3 +108,10 @@ Engineering student passionate about AI, data, and building things that actually
 ![Profile Views](https://komarev.com/ghpvc/?username=AmineCodes1&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
+
+
+
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub koi" />
+</p>
